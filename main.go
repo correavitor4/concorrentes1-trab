@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/package/processingManager"
+	"github.com/pkg/processingManager"
 )
 
 func main() {
